@@ -1,0 +1,7 @@
+# notebooks
+*.ipynb
+__pycache__
+
+# dev container config
+.devcontainer
+
